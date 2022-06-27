@@ -1,30 +1,25 @@
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
-
 <img
   alt="Alan engineer"
   src="https://github.com/alan-eu/.github/raw/acceptance/profile/alan-eng-rounded.png"
-  width="200"
+  height="200"
   align="left"
 />
 
 ## Hi there 👋
 
-We are Alan. We help all people have a personalised and accessible healthcare experience.
+We are [Alan](https://about.alan.com). We're building the European personalised and accessible healthcare experience.
 
 If you are interested in what we do as engineers or data scientists, check out our [blog](https://medium.com/alan) and [twitter](https://twitter.com/alanengineering).
-
+  
 ---
 
-### Latest posts 📖
+<img height="10"/>
+
+<table>
+  <tr width="100%">
+    <td width="50%" valign="baseline">
+  
+#### Latest posts 📖
 
 <!--START_SECTION:feed-->
 * [Making a difference in order to save your mental health](https://medium.com/alan/making-a-difference-in-order-to-save-your-mental-health-75123b60e560?source=rss----b2cb698c4e73---4)
@@ -33,3 +28,17 @@ If you are interested in what we do as engineers or data scientists, check out o
 * [Machine Learning atAlan](https://medium.com/alan/machine-learning-atalan-e436e0ae721d?source=rss----b2cb698c4e73---4)
 * [Compose with temporal logic](https://medium.com/alan/compose-with-temporal-logic-e0b77b860b32?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->
+
+</td>
+<td  width="50%" valign="baseline">
+      
+#### Sponsored by us? 💚
+
+<!-- todo: add sponsorship program link -->
+We regularly sponsor some open-source projects on GitHub as part of our Sponsorship Program.
+  
+You can get in touch and/or send feedback [here](https://forms.gle/YxxyJadt31w9RhXB6)!
+  
+  </td>
+  </tr>
+</table>
