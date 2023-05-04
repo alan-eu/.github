@@ -7,10 +7,12 @@
 
 ## Hi there 👋
 
-We are [Alan](https://about.alan.com). We're building the European personalised and accessible healthcare experience.
+We are [Alan](https://about.alan.com). We're building the European all-in-one health partner.
 
-If you are interested in what we do as engineers or data scientists, check out our [blog](https://medium.com/alan) and [twitter](https://twitter.com/alanengineering).
-  
+To learn more about what we do as engineers or data scientists on our [blog](https://medium.com/alan) and [twitter](https://twitter.com/alanengineering).
+
+If that looks interesting to you, [we're hiring](https://jobs.lever.co/alan)!
+
 ---
 
 <img height="10"/>
