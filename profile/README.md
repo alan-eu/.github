@@ -24,11 +24,11 @@ If that looks interesting to you, [we're hiring](https://jobs.lever.co/alan)!
 #### Latest posts 📖
 
 <!--START_SECTION:feed-->
-* [How to fuel growth by connecting what the product does and what sales sell](https://medium.com/alan/how-to-fuel-growth-by-connecting-what-the-product-does-and-what-sales-sell-1c9420214b59?source=rss----b2cb698c4e73---4)
-* [Antoine: From engineering manager to Alaner — Part 1](https://medium.com/alan/antoine-from-engineering-manager-to-alaner-part-1-819a4b6ecdbf?source=rss----b2cb698c4e73---4)
-* [An update on our hosting setup](https://medium.com/alan/an-update-on-our-hosting-setup-d386afe01563?source=rss----b2cb698c4e73---4)
-* [SSRF in real life](https://medium.com/alan/ssrf-in-real-life-3ef894d1f3be?source=rss----b2cb698c4e73---4)
-* [Plugin development: Leveraging IDE Python type inference with type hints](https://medium.com/alan/plugin-development-leveraging-ide-python-type-inference-with-type-hints-7426b3d5ee49?source=rss----b2cb698c4e73---4)
+* [T-shaped full-stack product problem solvers](https://medium.com/alan/t-shaped-full-stack-product-problem-solvers-1eb543b22c3c?source=rss----b2cb698c4e73---4)
+* [Becoming a software engineer after a career change](https://medium.com/alan/becoming-a-software-engineer-after-a-career-change-fecdded5085c?source=rss----b2cb698c4e73---4)
+* [5 articles every software engineer should read](https://medium.com/alan/5-articles-every-software-engineer-should-read-56b0d9de2c43?source=rss----b2cb698c4e73---4)
+* [Modeling evolving values](https://medium.com/alan/modeling-evolving-values-18b495aaeeed?source=rss----b2cb698c4e73---4)
+* [Generative branding](https://medium.com/alan/generative-branding-c7499b2cf679?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->
 
 </td>
