@@ -24,11 +24,11 @@ If that looks interesting to you, [we're hiring](https://jobs.lever.co/alan)!
 #### Latest posts 📖
 
 <!--START_SECTION:feed-->
+* [Career Shifts into Software Development: Stories of Alaners](https://medium.com/alan/career-shifts-into-software-development-stories-of-alaners-c720ebaf7b38?source=rss----b2cb698c4e73---4)
 * [How we improved the engineer onboarding process at Alan](https://medium.com/alan/how-we-improved-the-engineer-onboarding-process-at-alan-6f2f3fff5c5a?source=rss----b2cb698c4e73---4)
 * [Working on Document Processing, early 2023](https://medium.com/alan/working-on-document-processing-early-2023-88f642627ec0?source=rss----b2cb698c4e73---4)
 * [Alan’s plan with Generative AI](https://medium.com/alan/alans-plan-with-generative-ai-148193445b90?source=rss----b2cb698c4e73---4)
 * [How we divided engineering toil by two in one year](https://medium.com/alan/how-we-divided-engineering-toil-by-two-in-one-year-b2878560b0fe?source=rss----b2cb698c4e73---4)
-* [From CTO to Alaner](https://medium.com/alan/from-cto-to-alaner-3b8ba3e4393f?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->
 
 </td>
