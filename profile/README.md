@@ -24,11 +24,11 @@ If that looks interesting to you, [we're hiring](https://jobs.lever.co/alan)!
 #### Latest posts 📖
 
 <!--START_SECTION:feed-->
+* [How we replaced a core system by testing in prod.](https://medium.com/alan/how-we-replaced-a-core-system-by-testing-in-prod-ca09f441b605?source=rss----b2cb698c4e73---4)
 * [Antoine: From engineering manager to Alaner — Part 2](https://medium.com/alan/antoine-from-engineering-manager-to-alaner-part-2-5ecf00ec02d6?source=rss----b2cb698c4e73---4)
 * [Scaling Engineering Teams Without Traditional Managers](https://medium.com/alan/scaling-engineering-teams-without-traditional-managers-60276bc7ef6c?source=rss----b2cb698c4e73---4)
 * [Making Alembic migrations more team-friendly](https://medium.com/alan/making-alembic-migrations-more-team-friendly-e92997f60eb2?source=rss----b2cb698c4e73---4)
 * [Building tools to help balance insurance premiums & claims](https://medium.com/alan/building-tools-to-help-balance-insurance-premiums-claims-4bdcd29db249?source=rss----b2cb698c4e73---4)
-* [Asynchronous jobs at Alan: how we use probabilities to optimize our setup and reduce complexity](https://medium.com/alan/asynchronous-jobs-at-alan-how-we-use-probabilities-to-optimize-our-setup-and-reduce-complexity-5c73cc095f2d?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->
 
 </td>
