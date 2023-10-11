@@ -24,11 +24,11 @@ If that looks interesting to you, [we're hiring](https://jobs.lever.co/alan)!
 #### Latest posts 📖
 
 <!--START_SECTION:feed-->
-* [A new iteration of our engineering career path at Alan](https://medium.com/alan/a-new-iteration-of-our-engineering-career-path-at-alan-f46f7b229b2d?source=rss----b2cb698c4e73---4)
-* [The Product Manager career path at Alan](https://medium.com/alan/the-product-manager-career-path-at-alan-a81728739af5?source=rss----b2cb698c4e73---4)
-* [How we replaced a core system by testing in prod.](https://medium.com/alan/how-we-replaced-a-core-system-by-testing-in-prod-ca09f441b605?source=rss----b2cb698c4e73---4)
-* [Antoine: From engineering manager to Alaner — Part 2](https://medium.com/alan/antoine-from-engineering-manager-to-alaner-part-2-5ecf00ec02d6?source=rss----b2cb698c4e73---4)
-* [Scaling Engineering Teams Without Traditional Managers](https://medium.com/alan/scaling-engineering-teams-without-traditional-managers-60276bc7ef6c?source=rss----b2cb698c4e73---4)
+* [JavaScript proxies as a refactoring tool](https://medium.com/alan/javascript-proxies-as-a-refactoring-tool-9ab481f6924a?source=rss----b2cb698c4e73---4)
+* [A new iteration of our engineering career path at Alan — Level F](https://medium.com/alan/a-new-iteration-of-our-engineering-career-path-at-alan-level-f-a925f61cc95b?source=rss----b2cb698c4e73---4)
+* [A new iteration of our engineering career path at Alan — Level E](https://medium.com/alan/a-new-iteration-of-our-engineering-career-path-at-alan-level-e-4f0fa9bfd89d?source=rss----b2cb698c4e73---4)
+* [A new iteration of our engineering career path at Alan — Level D](https://medium.com/alan/a-new-iteration-of-our-engineering-career-path-at-alan-level-d-fae37b844d51?source=rss----b2cb698c4e73---4)
+* [A new iteration of our engineering career path at Alan — Level C1](https://medium.com/alan/a-new-iteration-of-our-engineering-career-path-at-alan-level-c1-50db88366961?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->
 
 </td>
