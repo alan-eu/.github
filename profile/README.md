@@ -24,11 +24,11 @@ If that looks interesting to you, [we're hiring](https://jobs.lever.co/alan)!
 #### Latest posts 📖
 
 <!--START_SECTION:feed-->
+* [Hosting Keycloak within a Beanstalk Infrastructure: A Technical Journey at Alan](https://medium.com/alan/hosting-keycloak-within-a-beanstalk-infrastructure-a-technical-journey-at-alan-75cdf6883ba1?source=rss----b2cb698c4e73---4)
 * [An unexpected journey: The tale of the backend architecture at Alan](https://medium.com/alan/an-unexpected-journey-the-tale-of-the-backend-architecture-at-alan-ac8c5382df60?source=rss----b2cb698c4e73---4)
 * [JavaScript proxies as a refactoring tool](https://medium.com/alan/javascript-proxies-as-a-refactoring-tool-9ab481f6924a?source=rss----b2cb698c4e73---4)
 * [A new iteration of our engineering career path at Alan — Level F](https://medium.com/alan/a-new-iteration-of-our-engineering-career-path-at-alan-level-f-a925f61cc95b?source=rss----b2cb698c4e73---4)
 * [A new iteration of our engineering career path at Alan — Level E](https://medium.com/alan/a-new-iteration-of-our-engineering-career-path-at-alan-level-e-4f0fa9bfd89d?source=rss----b2cb698c4e73---4)
-* [A new iteration of our engineering career path at Alan — Level D](https://medium.com/alan/a-new-iteration-of-our-engineering-career-path-at-alan-level-d-fae37b844d51?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->
 
 </td>
