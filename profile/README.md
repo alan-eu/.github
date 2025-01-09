@@ -24,11 +24,11 @@ If that looks interesting to you, [we're hiring](https://jobs.lever.co/alan)!
 #### Latest posts 📖
 
 <!--START_SECTION:feed-->
+* [How We Built Alan’s AI Assistant for Customer Support](https://medium.com/alan/how-we-built-alans-ai-assistant-for-customer-support-2a82194df8be?source=rss----b2cb698c4e73---4)
 * [Moving our CI/CD to GitHub Actions](https://medium.com/alan/moving-our-ci-cd-to-github-actions-40df3f7e4733?source=rss----b2cb698c4e73---4)
 * [Llama 3 Takeaways for LLM Practitioners](https://medium.com/alan/llama-3-takeaways-for-llm-practitioners-209c50e3892f?source=rss----b2cb698c4e73---4)
 * [A bundler story: migrating from Webpack to Rspack](https://medium.com/alan/a-bundler-story-migrating-from-webpack-to-rspack-f548c62f757d?source=rss----b2cb698c4e73---4)
 * [How to build 0–1 exploratory products](https://medium.com/alan/how-to-build-0-1-exploratory-products-225ee4015673?source=rss----b2cb698c4e73---4)
-* [What is the state of Alan’s Developer Experience and what we are working on?](https://medium.com/alan/what-is-the-state-of-alans-developer-experience-and-what-we-are-working-on-3fc62797467f?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->
 
 </td>
