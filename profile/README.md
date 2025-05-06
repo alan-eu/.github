@@ -24,11 +24,11 @@ If that looks interesting to you, [we're hiring](https://jobs.lever.co/alan)!
 #### Latest posts 📖
 
 <!--START_SECTION:feed-->
+* [Alan’s 2025 Technical Strategy: Building Tomorrow’s Stack Today](https://medium.com/alan/alans-2025-technical-strategy-building-tomorrow-s-stack-today-a070bcb345a6?source=rss----b2cb698c4e73---4)
 * [From Chaos to Consistency: How Alan Transformed Developer Experience with Devbox](https://medium.com/alan/from-chaos-to-consistency-how-alan-transformed-developer-experience-with-devbox-f89615b88ad6?source=rss----b2cb698c4e73---4)
 * [DeepSeek R1: Demystifying LLM’s Reasoning Capabilities](https://medium.com/alan/deepseek-r1-demystifying-llms-reasoning-capabilities-f6332154349b?source=rss----b2cb698c4e73---4)
 * [How We Built Alan’s AI Assistant for Customer Support](https://medium.com/alan/how-we-built-alans-ai-assistant-for-customer-support-2a82194df8be?source=rss----b2cb698c4e73---4)
 * [Moving our CI/CD to GitHub Actions](https://medium.com/alan/moving-our-ci-cd-to-github-actions-40df3f7e4733?source=rss----b2cb698c4e73---4)
-* [Llama 3 Takeaways for LLM Practitioners](https://medium.com/alan/llama-3-takeaways-for-llm-practitioners-209c50e3892f?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->
 
 </td>
