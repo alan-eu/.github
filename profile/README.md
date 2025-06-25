@@ -24,11 +24,11 @@ If that looks interesting to you, [we're hiring](https://jobs.lever.co/alan)!
 #### Latest posts 📖
 
 <!--START_SECTION:feed-->
+* [Inside Alan’s Claim Agent: How an AI Investigates Claims just like a Human, only Faster](https://medium.com/alan/inside-alans-claim-agent-how-an-ai-investigates-claims-just-like-a-human-only-faster-11d62bd7efc9?source=rss----b2cb698c4e73---4)
 * [How I found my security calling at Alan](https://medium.com/alan/how-i-found-my-security-calling-at-alan-4433f75378f1?source=rss----b2cb698c4e73---4)
 * [Alan’s 2025 Technical Strategy: Building Tomorrow’s Stack Today](https://medium.com/alan/alans-2025-technical-strategy-building-tomorrow-s-stack-today-a070bcb345a6?source=rss----b2cb698c4e73---4)
 * [From Chaos to Consistency: How Alan Transformed Developer Experience with Devbox](https://medium.com/alan/from-chaos-to-consistency-how-alan-transformed-developer-experience-with-devbox-f89615b88ad6?source=rss----b2cb698c4e73---4)
 * [DeepSeek R1: Demystifying LLM’s Reasoning Capabilities](https://medium.com/alan/deepseek-r1-demystifying-llms-reasoning-capabilities-f6332154349b?source=rss----b2cb698c4e73---4)
-* [How We Built Alan’s AI Assistant for Customer Support](https://medium.com/alan/how-we-built-alans-ai-assistant-for-customer-support-2a82194df8be?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->
 
 </td>
