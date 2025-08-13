@@ -24,11 +24,11 @@ If that looks interesting to you, [we're hiring](https://jobs.lever.co/alan)!
 #### Latest posts 📖
 
 <!--START_SECTION:feed-->
+* [How we refactored one of our most-used data models](https://medium.com/alan/how-we-refactored-one-of-our-most-used-data-models-33cadaf31313?source=rss----b2cb698c4e73---4)
 * [How we are evolving engineering leadership at Alan](https://medium.com/alan/how-we-are-evolving-engineering-leadership-at-alan-ea0b28d4959a?source=rss----b2cb698c4e73---4)
 * [Our ISO 27001 journey: From security blueprint to certification success](https://medium.com/alan/our-iso-27001-journey-from-security-blueprint-to-certification-success-a2e0b7b03bb9?source=rss----b2cb698c4e73---4)
 * [Inside Alan’s Claim Agent: How an AI Investigates Claims just like a Human, only Faster](https://medium.com/alan/inside-alans-claim-agent-how-an-ai-investigates-claims-just-like-a-human-only-faster-11d62bd7efc9?source=rss----b2cb698c4e73---4)
 * [How I found my security calling at Alan](https://medium.com/alan/how-i-found-my-security-calling-at-alan-4433f75378f1?source=rss----b2cb698c4e73---4)
-* [Alan’s 2025 Technical Strategy: Building Tomorrow’s Stack Today](https://medium.com/alan/alans-2025-technical-strategy-building-tomorrow-s-stack-today-a070bcb345a6?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->
 
 </td>
