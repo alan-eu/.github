@@ -24,11 +24,11 @@ If that looks interesting to you, [we're hiring](https://jobs.lever.co/alan)!
 #### Latest posts 📖
 
 <!--START_SECTION:feed-->
+* [From Small to Large: Joining Alan](https://medium.com/alan/from-small-to-large-joining-alan-822f777a99d5?source=rss----b2cb698c4e73---4)
 * [Stop Testing Engineers Like It’s 2015: Why We Embraced AI in Our Interviews](https://medium.com/alan/stop-testing-engineers-like-its-2015-why-we-embraced-ai-in-our-interviews-a21adec28a4f?source=rss----b2cb698c4e73---4)
 * [How we refactored one of our most-used data models](https://medium.com/alan/how-we-refactored-one-of-our-most-used-data-models-33cadaf31313?source=rss----b2cb698c4e73---4)
 * [How we are evolving engineering leadership at Alan](https://medium.com/alan/how-we-are-evolving-engineering-leadership-at-alan-ea0b28d4959a?source=rss----b2cb698c4e73---4)
 * [Our ISO 27001 journey: From security blueprint to certification success](https://medium.com/alan/our-iso-27001-journey-from-security-blueprint-to-certification-success-a2e0b7b03bb9?source=rss----b2cb698c4e73---4)
-* [Inside Alan’s Claim Agent: How an AI Investigates Claims just like a Human, only Faster](https://medium.com/alan/inside-alans-claim-agent-how-an-ai-investigates-claims-just-like-a-human-only-faster-11d62bd7efc9?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->
 
 </td>
