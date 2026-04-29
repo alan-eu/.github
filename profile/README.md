@@ -24,11 +24,11 @@ If that looks interesting to you, [we're hiring](https://jobs.lever.co/alan)!
 #### Latest posts 📖
 
 <!--START_SECTION:feed-->
+* [From nginx to Envoy: What Actually Happens When You Swap Your Proxy in Production](https://medium.com/alan/from-nginx-to-envoy-what-actually-happens-when-you-swap-your-proxy-in-production-8a6d0bae82d5?source=rss----b2cb698c4e73---4)
 * [How we bootstrapped an AI agent platform for operations at Alan](https://medium.com/alan/how-we-bootstrapped-an-ai-agents-platform-for-operations-at-alan-fefd87ed6314?source=rss----b2cb698c4e73---4)
 * [Re-inventing our craft: how Alan’s Data team is shaping its future with AI](https://medium.com/alan/re-inventing-our-craft-how-alans-data-team-is-shaping-its-future-with-ai-e8d73d095ece?source=rss----b2cb698c4e73---4)
 * [Alan Cache : the best caching library? (Part 5)](https://medium.com/alan/alan-cache-the-best-caching-library-part-5-e169dea846f4?source=rss----b2cb698c4e73---4)
 * [Alan Cache : the best caching library? (Part 4)](https://medium.com/alan/alan-cache-the-best-caching-library-part-4-bac372c34c0d?source=rss----b2cb698c4e73---4)
-* [Alan Cache : the best caching library? (Part 3)](https://medium.com/alan/alan-cache-the-best-caching-library-part-3-7f7da84e8226?source=rss----b2cb698c4e73---4)
 <!--END_SECTION:feed-->
 
 </td>
