@@ -7,9 +7,9 @@
 
 ## Hi there 👋
 
-We are [Alan](https://about.alan.com). We're building the European all-in-one health partner.
+We are [Alan](https://alan.com/en/careers). We're building the European all-in-one health partner.
 
-To learn more about what we do as engineers or data scientists on our [blog](https://medium.com/alan) and [twitter](https://twitter.com/alanengineering).
+To learn more about what we do as engineers or data scientists on our [blog](https://medium.com/alan) and [X](https://x.com/alanengineering).
 
 If that looks interesting to you, [we're hiring](https://jobs.lever.co/alan)!
 
